@@ -9,8 +9,9 @@ It uses the frameworks and tools Bootstrap, jquery-1.3.2, phplot-6.2.0, flot-0.8
 Setup:
 
 1. (Install and then) Open Wampserver 
-2. Download a clone and save to C:/wamp64/www/evwizard/
-3. Open Browser and type in  http://localhost/evwizard/index.php
+2. Create PHPmyadmin account and import .sql- files from folder /databases (login information see db.php)
+3. Download a clone and save to C:/wamp64/www/evwizard/
+4. Open Browser and type in  http://localhost/evwizard/index.php
 
 This opens the web app with full functionality of the calculator.
 
