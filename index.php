@@ -167,11 +167,11 @@ Copyright (C) 2016 Vincenzo Domina -->
 		</div>
 		<div class="footer-right">
 			<p class="footer-company-about">
-				<span>About EV Wizard</span>The easy to use and understand EV conversion calculation wizard!</p>
+				<span>About EV Wizard</span>The easy to use and understand EV conversion calculation wizard</p>
 			<br>
 			<p class="footer-company-about"> 
 				<!--------  Day counter  ------------->
-			  <?php $daysuntil=(int)((time())/86400-mktime(0,0,0,1,1,2017)); print"$daysuntil days since launch of EV Wizard website";?>
+			  <?php $daysuntil=(int)((time()-mktime(0,0,0,1,1,2017))/86400); print"$daysuntil days since launch of EV Wizard website";?>
 			</p>
 			<div class="footer-icons">
 				<a href="#"><i class="fa fa-facebook"></i></a>
