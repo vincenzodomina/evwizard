@@ -17,4 +17,4 @@ This opens the web app with full functionality of the calculator.
 
 Website:
 
-![Website Calculator](https://github.com/vincenzodomina/evwizard/evwizard.JPG "Website Calculator")
+![Website Calculator](https://github.com/vincenzodomina/evwizard/blob/master/evwizard.JPG "Website Calculator")
